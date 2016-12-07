@@ -29,9 +29,9 @@ typedef void (^ServiceFailureBlock)(NSURLSessionDataTask *task, NSError *error);
  * @failure FailureBlock to be called on service failure
  *
  *  *** Sample usage ***
- * GET webservice : http://www.nactem.ac.uk/software/acromine/dictionary.py?sf=usa
+ * GET webservice : http://www.nactem.ac.uk/software/acromine/dictionary.py?sf=RAM
  * urlstring : http://www.nactem.ac.uk/software/acromine/dictionary.py?
- * parameters: @{@"sf": @"dvd"}
+ * parameters: @{@"sf": @"RAM"}
  *
  */
 - (void)getResponseForURLString: (NSString *)urlString Parameters:(NSDictionary *) parameters success:(ServiceSuccessBlock) success failure:(ServiceFailureBlock) failure;
