@@ -1,0 +1,11 @@
+/* 
+  localizable.strings
+  AcronymsFinder
+
+  Created by Tejashree Deshpande on 12/7/16.
+  Copyright © 2016 Tejashree Deshpande. All rights reserved.
+*/
+"HeaderText" = "Meanings for \"%@\"";
+"NoResultsTitle" = "No results";
+"NoResultsMessage" = "Sorry! We couldn't find any meaning for \"%@\". Please try different word.";
+"HeaderLabelText" = "Enter the acronym word and find the different meaning in the list view.";

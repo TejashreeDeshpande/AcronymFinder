@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "4X3-Ju-zBa"; */
+"4X3-Ju-zBa.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Acronym Finder"; ObjectID = "EbQ-1F-VXp"; */
+"EbQ-1F-VXp.title" = "Acronym Finder";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "YD2-rN-jNM"; */
+"YD2-rN-jNM.text" = "Subtitle";
+
+/* Class = "UITextField"; placeholder = "Enter Acronym"; ObjectID = "cns-br-hq9"; */
+"cns-br-hq9.placeholder" = "Enter Acronym";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uRA-cP-TTM"; */
+"uRA-cP-TTM.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "w6c-p9-WWI"; */
+"w6c-p9-WWI.text" = "Title";
