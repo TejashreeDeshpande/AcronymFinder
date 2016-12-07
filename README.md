@@ -12,6 +12,6 @@ http://www.nactem.ac.uk/software/acromine/rest.html - This is GET request.
 
 Cocoapods are used as dependency manager to add below projects:
 
-   1. "AFNetworking", "~> 2.0" (https://github.com/AFNetworking/AFNetworking)
+   1. ‘AFNetworking’, ‘~> 2.0’ (https://github.com/AFNetworking/AFNetworking)
 
-   2. 'MBProgressHUD', '~> 0.9.1' (https://github.com/jdg/MBProgressHUD)
+   2. ‘MBProgressHUD’, ‘~> 1.0.0’ (https://github.com/jdg/MBProgressHUD)
